@@ -14,7 +14,6 @@
 - <a href="https://twitter.com/goofbrush">Twitter</a>
 - <a href="https://www.twitch.tv/goofbrush">Twitch</a>
 - <a href="https://www.youtube.com/channel/UCsypbrY4PrQEKQcCYOJ1Qbg">Youtube</a>
-- <a href="https://www.linkedin.com/in/bradley-smith-9b82641bb/">Linkedin</a>
 
 ## Other
 - <a href="https://myanimelist.net/animelist/GoofBrush?status=7&order=4&order2=0">Anime Listing</a>
