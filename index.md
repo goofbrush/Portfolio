@@ -18,3 +18,4 @@
 ## Other
 - <a href="https://myanimelist.net/animelist/GoofBrush?status=7&order=4&order2=0">Anime Listing</a>
 - <a href="https://myanimelist.net/mangalist/GoofBrush?status=7&order=4&order2=0">Manga Listing</a>
+- <a href="https://letterboxd.com/goofbrush/">Letterboxd Profile</a>
