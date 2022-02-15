@@ -8,12 +8,12 @@
 - <a href="https://www.speedrun.com/user/goofbrush">Speedrun Profile</a> 
 - <a href="https://podracing.gg/racer/goofbrush">Star Wars Pod Racing Rankings</a>
 
-## Tas Projects
-
 ## Socials
+- <a href="https://discord.com/users/167721054956027904/">Discord</a>
 - <a href="https://twitter.com/goofbrush">Twitter</a>
 - <a href="https://www.twitch.tv/goofbrush">Twitch</a>
 - <a href="https://www.youtube.com/channel/UCsypbrY4PrQEKQcCYOJ1Qbg">Youtube</a>
+
 
 ## Other
 - <a href="https://myanimelist.net/animelist/GoofBrush?status=7&order=4&order2=0">Anime Listing</a>
